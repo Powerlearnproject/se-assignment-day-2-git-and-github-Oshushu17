@@ -10,7 +10,7 @@ Based on the need of the software team, a VCS can be local (stores source files 
 
 Version control systems (VCS) stand as a pivotal practice within software development, enabling better management, tracking, and implementation of changes to code and related files thereby making it a popular tool for programmers. 
 
-Version Control promotes project integrity by allowing programmers to track who modified changes to code and if errors are made, they can be quickly tackled. These modifications are visible to all team working on the project
+Version Control promotes project integrity by allowing programmers to track who modified changes to code and if errors are made, they can be quickly tackled. These modifications are visible to all team working on the project.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 - Create an email
